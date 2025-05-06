@@ -1,0 +1,7 @@
+{
+    "name": "CIA Example",
+    "author": "NikoSolstice",
+    "autoScripts": [
+        "example"
+    ]
+}

@@ -1,0 +1,1697 @@
+{
+    "meta": {
+        "format_version": "4.10",
+        "model_format": "figura",
+        "box_uv": false
+    },
+    "visible_box": [1, 1, 0],
+    "variable_placeholders": "",
+    "variable_placeholder_buttons": [],
+    "timeline_setups": [],
+    "unhandled_root_fields": {},
+    "resolution": {
+        "width": 16,
+        "height": 16
+    },
+    "elements": [
+        {
+            "name": "DusksEpitaphV2_0",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [26.5, 17, 3],
+            "to": [28.5, 25, 4],
+            "autouv": 0,
+            "color": 3,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [14.5, 0, 13.5, 4],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [14, 0, 14.5, 4],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [13.5, 0, 14.5, 4],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [13.5, 0, 14, 4],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [13.5, 0, 14.5, 0.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [13.5, 3.5, 14.5, 4],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "0d53da76-d4da-8ee9-c3af-9fa3d016eada"
+        },
+        {
+            "name": "DusksEpitaphV2_1",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [25.5, 15, 3],
+            "to": [26.5, 24, 4],
+            "autouv": 0,
+            "color": 6,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [13.5, 0.5, 13, 5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [13, 0.5, 13.5, 5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [13, 0.5, 13.5, 5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [13, 0.5, 13.5, 5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [13, 0.5, 13.5, 1],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [13, 4.5, 13.5, 5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "41378b2f-79ae-75fd-1ac6-e275bd36ec8e"
+        },
+        {
+            "name": "DusksEpitaphV2_2",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [24.5, 14, 3],
+            "to": [25.5, 23, 4],
+            "autouv": 0,
+            "color": 6,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [13, 1, 12.5, 5.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [12.5, 1, 13, 5.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [12.5, 1, 13, 5.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [12.5, 1, 13, 5.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [12.5, 1, 13, 1.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [12.5, 5, 13, 5.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "1778ccc2-f486-e276-70ab-f24dd3a81baa"
+        },
+        {
+            "name": "DusksEpitaphV2_3",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [28.5, 20, 3],
+            "to": [31.5, 23, 4],
+            "autouv": 0,
+            "color": 3,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [16, 1, 14.5, 2.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [15.5, 1, 16, 2.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [14.5, 1, 16, 2.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [14.5, 1, 15, 2.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [14.5, 1, 16, 1.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [14.5, 2, 16, 2.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "77f83c53-7c8f-0d6b-d593-8a353777da59"
+        },
+        {
+            "name": "DusksEpitaphV2_4",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [23.5, 13, 3],
+            "to": [24.5, 22, 4],
+            "autouv": 0,
+            "color": 6,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [12.5, 1.5, 12, 6],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [12, 1.5, 12.5, 6],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [12, 1.5, 12.5, 6],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [12, 1.5, 12.5, 6],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [12, 1.5, 12.5, 2],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [12, 5.5, 12.5, 6],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "7098695e-d14b-0570-cce3-d483242a49f0"
+        },
+        {
+            "name": "DusksEpitaphV2_5",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [22.5, 12, 3],
+            "to": [23.5, 21, 4],
+            "autouv": 0,
+            "color": 2,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [12, 2, 11.5, 6.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [11.5, 2, 12, 6.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [11.5, 2, 12, 6.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [11.5, 2, 12, 6.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [11.5, 2, 12, 2.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [11.5, 6, 12, 6.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "2f97d29b-574e-62cf-8012-e75994164d09"
+        },
+        {
+            "name": "DusksEpitaphV2_6",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [28.5, 19, 3],
+            "to": [30.5, 20, 4],
+            "autouv": 0,
+            "color": 6,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [15.5, 2.5, 14.5, 3],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [15, 2.5, 15.5, 3],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [14.5, 2.5, 15.5, 3],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [14.5, 2.5, 15, 3],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [14.5, 2.5, 15.5, 3],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [14.5, 2.5, 15.5, 3],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "1d99370c-024d-f70c-5850-da8f2ff5daa7"
+        },
+        {
+            "name": "DusksEpitaphV2_7",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [20.5, 10, 3],
+            "to": [21.5, 19, 4],
+            "autouv": 0,
+            "color": 4,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [11, 3, 10.5, 7.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [10.5, 3, 11, 7.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [10.5, 3, 11, 7.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [10.5, 3, 11, 7.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [10.5, 3, 11, 3.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [10.5, 7, 11, 7.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "7f3f9157-d05d-f055-8b31-846ae1b15a03"
+        },
+        {
+            "name": "DusksEpitaphV2_8",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [28.5, 18, 3],
+            "to": [29.5, 19, 4],
+            "autouv": 0,
+            "color": 0,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [15, 3, 14.5, 3.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [14.5, 3, 15, 3.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [14.5, 3, 15, 3.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [14.5, 3, 15, 3.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [14.5, 3, 15, 3.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [14.5, 3, 15, 3.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "44a1b0c5-c4b7-4bbf-25ac-b463fdd61b4a"
+        },
+        {
+            "name": "DusksEpitaphV2_9",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [19.5, 9, 3],
+            "to": [20.5, 18, 4],
+            "autouv": 0,
+            "color": 2,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [10.5, 3.5, 10, 8],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [10, 3.5, 10.5, 8],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [10, 3.5, 10.5, 8],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [10, 3.5, 10.5, 8],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [10, 3.5, 10.5, 4],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [10, 7.5, 10.5, 8],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "22a73fc3-e1de-7fc7-1adc-2349c853027d"
+        },
+        {
+            "name": "DusksEpitaphV2_10",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [21.5, 11, 3],
+            "to": [22.5, 18, 4],
+            "autouv": 0,
+            "color": 8,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [11.5, 3.5, 11, 7],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [11, 3.5, 11.5, 7],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [11, 3.5, 11.5, 7],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [11, 3.5, 11.5, 7],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [11, 3.5, 11.5, 4],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [11, 6.5, 11.5, 7],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "cc924960-5a48-3a9b-0839-3277d8dbe240"
+        },
+        {
+            "name": "DusksEpitaphV2_11",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [18.5, 8, 3],
+            "to": [19.5, 17, 4],
+            "autouv": 0,
+            "color": 3,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [10, 4, 9.5, 8.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [9.5, 4, 10, 8.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [9.5, 4, 10, 8.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [9.5, 4, 10, 8.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [9.5, 4, 10, 4.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [9.5, 8, 10, 8.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "30177f4b-c6e9-cf97-0363-61f1cb1b8b44"
+        },
+        {
+            "name": "DusksEpitaphV2_12",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [26.5, 16, 3],
+            "to": [27.5, 17, 4],
+            "autouv": 0,
+            "color": 4,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [14, 4, 13.5, 4.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [13.5, 4, 14, 4.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [13.5, 4, 14, 4.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [13.5, 4, 14, 4.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [13.5, 4, 14, 4.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [13.5, 4, 14, 4.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "39d8b523-dfb9-767d-fc1f-6b8be949f316"
+        },
+        {
+            "name": "DusksEpitaphV2_13",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [17.5, 7, 3],
+            "to": [18.5, 16, 4],
+            "autouv": 0,
+            "color": 5,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [9.5, 4.5, 9, 9],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [9, 4.5, 9.5, 9],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [9, 4.5, 9.5, 9],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [9, 4.5, 9.5, 9],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [9, 4.5, 9.5, 5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [9, 8.5, 9.5, 9],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "8f98a334-4470-17aa-43e9-b7747b4500e8"
+        },
+        {
+            "name": "DusksEpitaphV2_14",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [16.5, 6, 3],
+            "to": [17.5, 15, 4],
+            "autouv": 0,
+            "color": 5,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [9, 5, 8.5, 9.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [8.5, 5, 9, 9.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [8.5, 5, 9, 9.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [8.5, 5, 9, 9.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [8.5, 5, 9, 5.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [8.5, 9, 9, 9.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "87e97657-b8b5-286e-c078-8b94ad1404a9"
+        },
+        {
+            "name": "DusksEpitaphV2_15",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [15.5, 5, 3],
+            "to": [16.5, 14, 4],
+            "autouv": 0,
+            "color": 6,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [8.5, 5.5, 8, 10],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [8, 5.5, 8.5, 10],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [8, 5.5, 8.5, 10],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [8, 5.5, 8.5, 10],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [8, 5.5, 8.5, 6],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [8, 9.5, 8.5, 10],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "ce01ec04-2ab7-9c2b-c5c0-ae62a91a0003"
+        },
+        {
+            "name": "DusksEpitaphV2_16",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [14.5, 4, 3],
+            "to": [15.5, 13, 4],
+            "autouv": 0,
+            "color": 6,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [8, 6, 7.5, 10.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [7.5, 6, 8, 10.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [7.5, 6, 8, 10.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [7.5, 6, 8, 10.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [7.5, 6, 8, 6.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [7.5, 10, 8, 10.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "2011fd10-e480-e03e-e301-c30121f6ca63"
+        },
+        {
+            "name": "DusksEpitaphV2_17",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [13.5, 3, 3],
+            "to": [14.5, 12, 4],
+            "autouv": 0,
+            "color": 8,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [7.5, 6.5, 7, 11],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [7, 6.5, 7.5, 11],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [7, 6.5, 7.5, 11],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [7, 6.5, 7.5, 11],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [7, 6.5, 7.5, 7],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [7, 10.5, 7.5, 11],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "3d0f54b7-20dd-930f-4d53-e596c9783a2a"
+        },
+        {
+            "name": "DusksEpitaphV2_18",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [12.5, 2, 3],
+            "to": [13.5, 11, 4],
+            "autouv": 0,
+            "color": 0,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [7, 7, 6.5, 11.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [6.5, 7, 7, 11.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [6.5, 7, 7, 11.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [6.5, 7, 7, 11.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [6.5, 7, 7, 7.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [6.5, 11, 7, 11.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "4971f137-7113-df44-acae-dcf00d2c2b7d"
+        },
+        {
+            "name": "DusksEpitaphV2_19",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [11.5, -2, 3],
+            "to": [12.5, 10, 4],
+            "autouv": 0,
+            "color": 7,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [6.5, 7.5, 6, 13.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [6, 7.5, 6.5, 13.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [6, 7.5, 6.5, 13.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [6, 7.5, 6.5, 13.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [6, 7.5, 6.5, 8],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [6, 13, 6.5, 13.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "eaf00972-4394-85e5-dbcd-e8e0162eb2ef"
+        },
+        {
+            "name": "DusksEpitaphV2_20",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [5.5, -2, 3],
+            "to": [7.5, 9, 4],
+            "autouv": 0,
+            "color": 9,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [4, 8, 3, 13.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [3.5, 8, 4, 13.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [3, 8, 4, 13.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [3, 8, 3.5, 13.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [3, 8, 4, 8.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [3, 13, 4, 13.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "56640b27-7ead-6a29-e150-20518a2faa52"
+        },
+        {
+            "name": "DusksEpitaphV2_21",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [10.5, -5, 3],
+            "to": [11.5, 9, 4],
+            "autouv": 0,
+            "color": 0,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [6, 8, 5.5, 15],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [5.5, 8, 6, 15],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [5.5, 8, 6, 15],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [5.5, 8, 6, 15],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [5.5, 8, 6, 8.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [5.5, 14.5, 6, 15],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "0ba3e9a5-cb7e-e5fb-2e4a-69be00b2450e"
+        },
+        {
+            "name": "DusksEpitaphV2_22",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [4.5, -3, 3],
+            "to": [5.5, 8, 4],
+            "autouv": 0,
+            "color": 6,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [3, 8.5, 2.5, 14],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [2.5, 8.5, 3, 14],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [2.5, 8.5, 3, 14],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [2.5, 8.5, 3, 14],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [2.5, 8.5, 3, 9],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [2.5, 13.5, 3, 14],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "aea2920b-a582-454c-f776-d8a282072e84"
+        },
+        {
+            "name": "DusksEpitaphV2_23",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [9.5, -4, 3],
+            "to": [10.5, 8, 4],
+            "autouv": 0,
+            "color": 1,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [5.5, 8.5, 5, 14.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [5, 8.5, 5.5, 14.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [5, 8.5, 5.5, 14.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [5, 8.5, 5.5, 14.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [5, 8.5, 5.5, 9],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [5, 14, 5.5, 14.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "43304531-090f-2ff4-6539-b9108aebe9dd"
+        },
+        {
+            "name": "DusksEpitaphV2_24",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [8.5, -5, 3],
+            "to": [9.5, 7, 4],
+            "autouv": 0,
+            "color": 6,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [5, 9, 4.5, 15],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [4.5, 9, 5, 15],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [4.5, 9, 5, 15],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [4.5, 9, 5, 15],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [4.5, 9, 5, 9.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [4.5, 14.5, 5, 15],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "dae934f7-06e7-4395-e272-099f58ab4f34"
+        },
+        {
+            "name": "DusksEpitaphV2_25",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [1.5, 4, 3],
+            "to": [3.5, 6, 4],
+            "autouv": 0,
+            "color": 0,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [2, 9.5, 1, 10.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [1.5, 9.5, 2, 10.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [1, 9.5, 2, 10.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [1, 9.5, 1.5, 10.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [1, 9.5, 2, 10],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [1, 10, 2, 10.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "94e3aa05-0535-8716-7649-a7b6b0f5567c"
+        },
+        {
+            "name": "DusksEpitaphV2_26",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [7.5, -5, 3],
+            "to": [8.5, 6, 4],
+            "autouv": 0,
+            "color": 6,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [4.5, 9.5, 4, 15],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [4, 9.5, 4.5, 15],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [4, 9.5, 4.5, 15],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [4, 9.5, 4.5, 15],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [4, 9.5, 4.5, 10],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [4, 14.5, 4.5, 15],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "4f6d71ac-3656-dd5a-cbf8-455574c9b41c"
+        },
+        {
+            "name": "DusksEpitaphV2_27",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [3.5, 0, 3],
+            "to": [4.5, 5, 4],
+            "autouv": 0,
+            "color": 1,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [2.5, 10, 2, 12.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [2, 10, 2.5, 12.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [2, 10, 2.5, 12.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [2, 10, 2.5, 12.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [2, 10, 2.5, 10.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [2, 12, 2.5, 12.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "cddcb081-1ee5-a178-21ff-d19f47c7137b"
+        },
+        {
+            "name": "DusksEpitaphV2_28",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [2.5, 1, 3],
+            "to": [3.5, 4, 4],
+            "autouv": 0,
+            "color": 6,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [2, 10.5, 1.5, 12],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [1.5, 10.5, 2, 12],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [1.5, 10.5, 2, 12],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [1.5, 10.5, 2, 12],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [1.5, 10.5, 2, 11],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [1.5, 11.5, 2, 12],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "619e0408-f9d9-d2e6-0c84-0409846847a7"
+        },
+        {
+            "name": "DusksEpitaphV2_29",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [1.5, 1, 3],
+            "to": [2.5, 3, 4],
+            "autouv": 0,
+            "color": 5,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [1.5, 11, 1, 12],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [1, 11, 1.5, 12],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [1, 11, 1.5, 12],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [1, 11, 1.5, 12],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [1, 11, 1.5, 11.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [1, 11.5, 1.5, 12],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "c8cbce86-d4ff-e745-0e4a-768c2c5d6302"
+        },
+        {
+            "name": "DusksEpitaphV2_30",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [12.5, -1, 3],
+            "to": [15.5, 1, 4],
+            "autouv": 0,
+            "color": 3,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [8, 12, 6.5, 13],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [7.5, 12, 8, 13],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [6.5, 12, 8, 13],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [6.5, 12, 7, 13],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [6.5, 12, 8, 12.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [6.5, 12.5, 8, 13],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "22ef66c7-6c4c-d416-8788-1768f34ffdaa"
+        },
+        {
+            "name": "DusksEpitaphV2_31",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [3.5, -4, 3],
+            "to": [4.5, -1, 4],
+            "autouv": 0,
+            "color": 1,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [2.5, 13, 2, 14.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [2, 13, 2.5, 14.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [2, 13, 2.5, 14.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [2, 13, 2.5, 14.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [2, 13, 2.5, 13.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [2, 14, 2.5, 14.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "18165ac1-5628-fe6f-fefe-18ee36734f33"
+        },
+        {
+            "name": "DusksEpitaphV2_32",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [12.5, -2, 3],
+            "to": [14.5, -1, 4],
+            "autouv": 0,
+            "color": 4,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [7.5, 13, 6.5, 13.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [7, 13, 7.5, 13.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [6.5, 13, 7.5, 13.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [6.5, 13, 7, 13.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [6.5, 13, 7.5, 13.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [6.5, 13, 7.5, 13.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "cf6ae95a-f407-9392-7c25-5069a9721d6f"
+        },
+        {
+            "name": "DusksEpitaphV2_33",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [2.5, -5, 3],
+            "to": [3.5, -2, 4],
+            "autouv": 0,
+            "color": 0,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [2, 13.5, 1.5, 15],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [1.5, 13.5, 2, 15],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [1.5, 13.5, 2, 15],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [1.5, 13.5, 2, 15],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [1.5, 13.5, 2, 14],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [1.5, 14.5, 2, 15],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "e28ffe76-ddcb-0dca-b588-81d4f3cfc121"
+        },
+        {
+            "name": "DusksEpitaphV2_34",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [6.5, -3, 3],
+            "to": [7.5, -2, 4],
+            "autouv": 0,
+            "color": 5,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [4, 13.5, 3.5, 14],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [3.5, 13.5, 4, 14],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [3.5, 13.5, 4, 14],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [3.5, 13.5, 4, 14],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [3.5, 13.5, 4, 14],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [3.5, 13.5, 4, 14],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "9d9eb0c7-08e5-7297-a345-8ce6a0125518"
+        },
+        {
+            "name": "DusksEpitaphV2_35",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [1.5, -6, 3],
+            "to": [2.5, -3, 4],
+            "autouv": 0,
+            "color": 8,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [1.5, 14, 1, 15.5],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [1, 14, 1.5, 15.5],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [1, 14, 1.5, 15.5],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [1, 14, 1.5, 15.5],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [1, 14, 1.5, 14.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [1, 15, 1.5, 15.5],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "aa5c011f-26cd-af82-6de5-bc6aec399560"
+        },
+        {
+            "name": "DusksEpitaphV2_36",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [11.5, -5, 3],
+            "to": [12.5, -3, 4],
+            "autouv": 0,
+            "color": 4,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [6.5, 14, 6, 15],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [6, 14, 6.5, 15],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [6, 14, 6.5, 15],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [6, 14, 6.5, 15],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [6, 14, 6.5, 14.5],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [6, 14.5, 6.5, 15],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "0f9aabb8-5fd9-0225-0b3f-b098442b080a"
+        },
+        {
+            "name": "DusksEpitaphV2_37",
+            "box_uv": false,
+            "rescale": false,
+            "locked": false,
+            "render_order": "default",
+            "allow_mirror_modeling": true,
+            "from": [-0.5, -7, 3],
+            "to": [1.5, -4, 4],
+            "autouv": 0,
+            "color": 6,
+            "rotation": [90, 45, 90],
+            "origin": [-0.5, -7, 3],
+            "faces": {
+                "north": {
+                    "uv": [1, 14.5, 0, 16],
+                    "texture": 0
+                },
+                "east": {
+                    "uv": [0.5, 14.5, 1, 16],
+                    "texture": 0
+                },
+                "south": {
+                    "uv": [0, 14.5, 1, 16],
+                    "texture": 0
+                },
+                "west": {
+                    "uv": [0, 14.5, 0.5, 16],
+                    "texture": 0
+                },
+                "up": {
+                    "uv": [0, 14.5, 1, 15],
+                    "texture": 0
+                },
+                "down": {
+                    "uv": [0, 15.5, 1, 16],
+                    "texture": 0
+                }
+            },
+            "type": "cube",
+            "uuid": "685a4693-b8be-42e3-f2dc-24591c057270"
+        }
+    ],
+    "outliner": [
+        {
+            "name": "DusksEpitaphV3",
+            "origin": [-0.5, -7, 3],
+            "color": 0,
+            "uuid": "14469779-9950-0f59-989a-72e5d67c2f06",
+            "export": true,
+            "mirror_uv": false,
+            "isOpen": false,
+            "locked": false,
+            "visibility": true,
+            "autouv": 0,
+            "children": [
+                "0d53da76-d4da-8ee9-c3af-9fa3d016eada",
+                "41378b2f-79ae-75fd-1ac6-e275bd36ec8e",
+                "1778ccc2-f486-e276-70ab-f24dd3a81baa",
+                "77f83c53-7c8f-0d6b-d593-8a353777da59",
+                "7098695e-d14b-0570-cce3-d483242a49f0",
+                "2f97d29b-574e-62cf-8012-e75994164d09",
+                "1d99370c-024d-f70c-5850-da8f2ff5daa7",
+                "7f3f9157-d05d-f055-8b31-846ae1b15a03",
+                "44a1b0c5-c4b7-4bbf-25ac-b463fdd61b4a",
+                "22a73fc3-e1de-7fc7-1adc-2349c853027d",
+                "cc924960-5a48-3a9b-0839-3277d8dbe240",
+                "30177f4b-c6e9-cf97-0363-61f1cb1b8b44",
+                "39d8b523-dfb9-767d-fc1f-6b8be949f316",
+                "8f98a334-4470-17aa-43e9-b7747b4500e8",
+                "87e97657-b8b5-286e-c078-8b94ad1404a9",
+                "ce01ec04-2ab7-9c2b-c5c0-ae62a91a0003",
+                "2011fd10-e480-e03e-e301-c30121f6ca63",
+                "3d0f54b7-20dd-930f-4d53-e596c9783a2a",
+                "4971f137-7113-df44-acae-dcf00d2c2b7d",
+                "eaf00972-4394-85e5-dbcd-e8e0162eb2ef",
+                "56640b27-7ead-6a29-e150-20518a2faa52",
+                "0ba3e9a5-cb7e-e5fb-2e4a-69be00b2450e",
+                "aea2920b-a582-454c-f776-d8a282072e84",
+                "43304531-090f-2ff4-6539-b9108aebe9dd",
+                "dae934f7-06e7-4395-e272-099f58ab4f34",
+                "94e3aa05-0535-8716-7649-a7b6b0f5567c",
+                "4f6d71ac-3656-dd5a-cbf8-455574c9b41c",
+                "cddcb081-1ee5-a178-21ff-d19f47c7137b",
+                "619e0408-f9d9-d2e6-0c84-0409846847a7",
+                "c8cbce86-d4ff-e745-0e4a-768c2c5d6302",
+                "22ef66c7-6c4c-d416-8788-1768f34ffdaa",
+                "18165ac1-5628-fe6f-fefe-18ee36734f33",
+                "cf6ae95a-f407-9392-7c25-5069a9721d6f",
+                "e28ffe76-ddcb-0dca-b588-81d4f3cfc121",
+                "9d9eb0c7-08e5-7297-a345-8ce6a0125518",
+                "aa5c011f-26cd-af82-6de5-bc6aec399560",
+                "0f9aabb8-5fd9-0225-0b3f-b098442b080a",
+                "685a4693-b8be-42e3-f2dc-24591c057270"
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "path": "/home/erik/figura/avatars/Charter/charter/DusksEpitaphV2.png",
+            "name": "DusksEpitaphV2.png",
+            "folder": "",
+            "namespace": "",
+            "id": "1",
+            "width": 32,
+            "height": 32,
+            "uv_width": 16,
+            "uv_height": 16,
+            "particle": false,
+            "use_as_default": false,
+            "layers_enabled": false,
+            "sync_to_project": "",
+            "render_mode": "default",
+            "render_sides": "auto",
+            "frame_time": 1,
+            "frame_order_type": "loop",
+            "frame_order": "",
+            "frame_interpolate": false,
+            "visible": true,
+            "internal": true,
+            "saved": true,
+            "uuid": "e0b4713e-7416-1c87-dceb-28ecd4b7ff88",
+            "relative_path": "DusksEpitaphV2.png",
+            "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAANaSURBVFhHvZZbTxNRFIVXwXAprZReuLaxorYIVUA0ShBC9MVn+CH8Fkz8Ez40+mZ8wARSIyZIIpSUSpCGAr3T2gsWgbF7J2cyLVAuM+W8zMzp5Vtr7X3OHB1ucAwPD0uEW15e1gmsfFNrHQSfmZnB7OzszQsQ8JJzeL3eMq81T4Dg09PT8Pl8iEQimJiYQDAYZBGrq6uoqQCCCyDBSciH914c10vo7OzE4uJibQU4HA7J4/GwW5fLBd+XBUT346A5gqdSKV1NEiDn1OlCwNjYGDuvhJMwzQUQPJFIsEtl7AS3Wq0IhULsvCbLUNR8fn4eJGJqagri/iy4pgkou526+zJwzQRULrWBgQH4/X4UEnHorbZTsSs3AtU9QPDJoSEESsuMhsViQeDnGpLxMGxGEzZKpVDWvHLHVSXgZd9D6dnoC4ZTw5FzASdQpnhUFa6qBG6HXRp0u1DcT2PnHzA+Msi7XTybvpRzVatACU/mD0ApXAd+rQReu5r4lUqjWHcX3fYuhFa+I5fNw2Bswa9/DRfGfqkmfN5hYNBiNCf3CcGfjrqRjeexvhEuAfsRCQcZTmOvqe1K8HMTIPjISCfmFjYRyJ6wAIK779sZtLOdRq6YK8GLKDaY0HiYvha8qoDJN/fw0bvCAvqMdZxGq17PAgytR3wNxZoZflByvqnYXpURX3Qvx6uMnIBupxnrWyn0dDWAnHseOxHai3P8lACNHocJn76lrg0vS6ASmsvcYqdU8ztdpd3sDPjnr0lspPdV7SVlPyYR5FjADY0GrjUNmssUCmWJiv64KOZqn8sCRAJ9T3o45qWlCKgRjbYWuet39g65JFR7tc6FqDIBNEm1JxEU+9t3c3g13ssiAj92OA0SoYXzUwLEhEiCYCJ2EkHrnpwXcMJf1eub+bqxG9GuB4QIs9ksjffUIRL7y41IrmkcGdthNtyGvqERhcMiwrEodtMZbQXQOa6jzcbnN1dznFOgkaw3wHKcw3axXu4ptfCyZUgPAr4Z3uIttV0HadRj5dqTkN+xHGKStudIOb5KuLBJIvoHHmHNvwLnAxdSuT+q665clnx0zufz6LU7IZwrv0AC6Jmcd5ta+V6L6OVVQA3XYTEjmkxd+U2mZgMqE0AP1c5tWoDO+4//mjoAIJhZcN0AAAAASUVORK5CYII="
+        }
+    ]
+}
