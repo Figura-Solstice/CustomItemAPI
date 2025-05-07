@@ -179,18 +179,10 @@ keys.hit:onPress(function (modifiers, self)
     local item2 = __CIA_Internals.getItemFromStack(heldItem2)
     local cancel = true
     local hit = nil;
-    local entityRc = raycast:entity(
-    player:getPos():add(0,player:getEyeHeight(),0), 
-    player:getPos():add(0,player:getEyeHeight(),0):add(vectors.angleToDir(player:getRot()) * host:getReachDistance()),
-    function (entity)
-        return entity ~= player
-    end)
+    local entityRc = player:getTargetedEntity()
     hit = entityRc
     if not entityRc then
-        local blockRc = raycast:block(
-            player:getPos():add(0,player:getEyeHeight(),0), 
-            player:getPos():add(0,player:getEyeHeight(),0):add(vectors.angleToDir(player:getRot()) * host:getReachDistance()),
-            "COLLIDER")
+        local blockRc = player:getTargetedBlock()
         hit = blockRc
     end
 
