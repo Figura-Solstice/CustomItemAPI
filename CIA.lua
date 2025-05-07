@@ -179,10 +179,10 @@ keys.hit:onPress(function (modifiers, self)
     local item2 = __CIA_Internals.getItemFromStack(heldItem2)
     local cancel = true
     local hit = nil;
-    local entityRc = player:getTargetedEntity()
+    local entityRc = player:getTargetedEntity(host:getReachDistance())
     hit = entityRc
     if not entityRc then
-        local blockRc = player:getTargetedBlock()
+        local blockRc = player:getTargetedBlock(false, host:getReachDistance())
         hit = blockRc
     end
 
